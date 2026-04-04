@@ -1,2 +1,3 @@
-# PhD-Project-Narwhal-Tusks-
-Visuals and codes used in my PhD project, where we used statistical methods to analyze the trace elements incorporated in narwhal tusks.
+# PhD project: Statistical ecology - an ecological archive in narwhal tusks
+
+This repository contains selected files used during the completion of my PhD studies from 2022 to 2025.
